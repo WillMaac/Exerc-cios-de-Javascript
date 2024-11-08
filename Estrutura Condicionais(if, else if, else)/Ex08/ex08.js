@@ -1,0 +1,1 @@
+/* Receba uma nota de 0 a 10 e classifique como "Insuficiente" (0-4), "Suficiente" (5-6), "Bom" (7-8) ou "Excelente" (9-10). */

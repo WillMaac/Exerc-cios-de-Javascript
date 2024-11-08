@@ -1,0 +1,1 @@
+/* Receba o ano de nascimento de uma pessoa e classifique como "Geração Z" (nascidos a partir de 1997), "Millennials" (1981-1996), "Geração X" (1965-1980) ou "Baby Boomer" (1946-1964).*/

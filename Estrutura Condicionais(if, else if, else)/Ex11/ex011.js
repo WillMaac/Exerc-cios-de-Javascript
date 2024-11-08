@@ -1,0 +1,1 @@
+/* Receba um salário e calcule o imposto. Até 2000 isento, 2001-5000 (10%), acima de 5000 (20%). */
